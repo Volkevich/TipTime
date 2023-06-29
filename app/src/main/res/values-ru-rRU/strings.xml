@@ -9,4 +9,5 @@
     <string name="nullStatus">Заполните поле</string>
     <string name="commentCostService">"Стоимость услуги "</string>
     <string name="how_was_this_service">Как Вас обслужили?</string>
+    <string name="nullExceptions">Введите число</string>
 </resources>

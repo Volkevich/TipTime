@@ -21,18 +21,24 @@ class MainActivity : AppCompatActivity() {
 
     fun clickOn() {
 
-        var cost = binding.costOfService.text.toString().toDouble()
+        var cost = binding.costOfService.text.toString().toDoubleOrNull()
+
 
         var selectVariantGrade = binding.containerButon.checkedRadioButtonId
+
         var tipPercentage = when (selectVariantGrade) {
             R.id.goodButton -> 0.18
             R.id.amazingButton -> 0.20
             else -> 0.15
         }
-        var tip = cost * tipPercentage
+
+        var tip = cost?.times(tipPercentage)
         val roundVal = binding.roundUpTipSwitch.isChecked
         if (roundVal) {
-            tip = Math.ceil(tip)
+            tip = tip?.let { Math.ceil(it) }
+        }
+        if (cost == null){
+            return
         }
         val formattedTip = NumberFormat.getCurrencyInstance().format(tip)
         binding.result.text = getString(R.string.tip_amount, formattedTip)
