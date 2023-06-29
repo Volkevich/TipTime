@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Подсчет чаевых</string>
+    <string name="okay">Отлично (15%)</string>
+    <string name="good">Хорошо (18%)</string>
+    <string name="amazing">Удивительно (20%)</string>
+    <string name="round_up_tip">Будем округлять?</string>
+    <string name="calculate">Подсчитать</string>
+    <string name="tip_amount">Ваши чаевые: %s</string>
+    <string name="nullStatus">Заполните поле</string>
+    <string name="commentCostService">"Стоимость услуги "</string>
+    <string name="how_was_this_service">Как Вас обслужили?</string>
+</resources>
