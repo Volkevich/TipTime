@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TipTime</string>
+    <string name="app_name">Tipping time</string>
     <string name="okay">Okay (15%)</string>
     <string name="good">Good (18%)</string>
     <string name="amazing">Amazing (20%)</string>
@@ -10,4 +10,5 @@
     <string name="commentCostService">Cost of Service</string>
     <string name="how_was_this_service">How was this service?</string>
     <string name="nullExceptions">Enter number</string>
+    <string name="tiptime">Tipping time</string>
 </resources>

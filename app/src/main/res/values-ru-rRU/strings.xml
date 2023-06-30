@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Подсчет чаевых</string>
+    <string name="app_name">Время чаевых</string>
     <string name="okay">Отлично (15%)</string>
     <string name="good">Хорошо (18%)</string>
     <string name="amazing">Удивительно (20%)</string>
@@ -10,4 +10,5 @@
     <string name="commentCostService">"Стоимость услуги "</string>
     <string name="how_was_this_service">Как Вас обслужили?</string>
     <string name="nullExceptions">Введите число</string>
+    <string name="tiptime">Время чаевых</string>
 </resources>
