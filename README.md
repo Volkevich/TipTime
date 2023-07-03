@@ -1,4 +1,4 @@
-# **Tipping Time App** :iphone::moneybag:
+# **Tipping Time App** 📱:💸:
 ### In this repository, there is an application available that computes tips according to the total bill amount and the quality of service.
 ### ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=blue) ![Android_Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=AndroidStudio&logoColor=green) 
 ___
