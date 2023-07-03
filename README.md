@@ -20,5 +20,5 @@ ___
 <img src="TippingTime.png"/>
 
 ### Light mode and Russian:
-<img src="russian.png"/>
+<img src="RU.png"/>
 
