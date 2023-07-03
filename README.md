@@ -15,10 +15,10 @@ ___
 
 ## Screenshots of the Application:
 
-### Light mode and English 🏴󠁧󠁢󠁥󠁮󠁧󠁿::
+### Light mode and English:
 
 <img src="TippingTime.png"/>
 
-### Light mode and Russian 🇷🇺::
+### Light mode and Russian:
 <img src="russian.png"/>
 
