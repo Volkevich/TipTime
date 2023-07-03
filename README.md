@@ -11,7 +11,7 @@ ___
 ### Once all actions are completed, the total tip amount will be displayed on the right, beneath the button.
 
 #### Supported android versions :8.0 (Oreo) - API 26 and higher
-#### Memory size :minidisc:: 13,5 MB
+#### Memory size :minidisc:: 3,86 МБ (4 054 095 байт)
 
 ## Screenshots of the Application:
 
