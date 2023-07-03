@@ -15,7 +15,7 @@ ___
 
 ## Screenshots of the Application:
 
-### Dark mode and English :new_moon::
+### Light mode and English :new_moon::
 
 <img src="TippingTime.png"/>
 
