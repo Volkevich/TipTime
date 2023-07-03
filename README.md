@@ -15,10 +15,10 @@ ___
 
 ## Screenshots of the Application:
 
-### Light mode and English :new_moon::
+### Light mode and English 🏴󠁧󠁢󠁥󠁮󠁧󠁿::
 
 <img src="TippingTime.png"/>
 
-### Light mode and Russian :bulb::
+### Light mode and Russian :ru::
 <img src="russian.png"/>
 
